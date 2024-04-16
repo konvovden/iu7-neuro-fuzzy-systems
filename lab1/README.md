@@ -4,21 +4,14 @@
 Требуется сравнить визуализацию данных с использованием методов PCA, MDS (или альтернативного из той же группы, один метод на выбор) с t-SNE, UMAP (или альтернативного из той же группы, один метод на выбор) для случаев кластеризации до и после снижения размерности пространства с разметкой точек по полученным кластерам.
 
 # Датасет
-Orange Quality Analysis Dataset - https://www.kaggle.com/datasets/shruthiiiee/orange-quality
+Orange Quality Analysis Dataset - https://www.kaggle.com/datasets/youssefaboelwafa/clustering-penguins-species
 
 **Content:**
 
-The tabular dataset contains numerical attributes describing the quality of oranges, including their size, weight, sweetness (Brix), acidity (pH), softness, harvest time, and ripeness, as well as categorical attributes such as color, variety, presence of blemishes, and overall quality.
+The dataset consists of 5 columns
 
-**Columns:**
-- Size: Size of orange in cm
-- Weight: Weight of orange in g
-- Brix: Sweetness level in Brix
-- pH: Acidity level (pH)
-- Softness: Softness rating (1-5)
-- HarvestTime: Days since harvest
-- Ripeness: Ripeness rating (1-5)
-- Color: Fruit color
-- Variety: Orange variety
-- Blemishes: Presence of blemishes (Yes/No)
-- Quality: Overall quality rating (1-5)
+- culmen_length_mm: culmen length (mm)
+- culmen_depth_mm: culmen depth (mm)
+- flipper_length_mm: flipper length (mm)
+- body_mass_g: body mass (g)
+- sex: penguin sex
