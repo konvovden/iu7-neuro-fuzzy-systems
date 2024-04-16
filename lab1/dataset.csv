@@ -1,242 +1,345 @@
-Size (cm),Weight (g),Brix (Sweetness),pH (Acidity),Softness (1-5),HarvestTime (days),Ripeness (1-5),Color,Variety,Blemishes (Y/N),Quality (1-5)
-7.5,180,12,3.2,2,10,4,Orange,Valencia,N,4
-8.2,220,10.5,3.4,3,14,4.5,Deep Orange,Navel,N,4.5
-6.8,150,14,3,1,7,5,Light Orange,Cara Cara,N,5
-9,250,8.5,3.8,4,21,3.5,Orange-Red,Blood Orange,N,3.5
-8.5,210,11.5,3.3,2.5,12,5,Orange,Hamlin,Y (Minor),4.5
-6.7,126,9.1,3,2,25,2,Orange,Navel,N,1
-7.2,160,9,3.5,3.5,9,4,Yellow-Orange,Tangelo (Hybrid),N,4
-6.5,130,13.5,2.8,1.5,5,4.5,Light Orange,Murcott (Hybrid),N,4.5
-8.8,240,7.5,4,5,18,3,Deep Orange,Moro (Blood),Y (Sunburn),3
-7.8,190,12,3.1,2,11,4.5,Orange,Jaffa,N,5
-9.5,270,6,4.2,4.5,24,2.5,Orange-Red,Cara Cara,Y (Mold Spot),2.5
-7.8,183,14.8,3.7,2,12,3,Deep Orange,Valencia,Y (Mold Spot),4
-8,200,10,3.5,3,13,4,Orange,Clementine,N,4.5
-7,140,11,3.2,2.5,8,4.5,Deep Orange,Washington Navel,N,5
-9.2,260,9.5,3.7,4.5,20,4,Orange-Red,Star Ruby,N,4
-6.3,120,14.5,2.9,1,6,5,Light Orange,Tangerine,N,5
-8.7,230,8,3.9,3.5,17,3.5,Orange,Ambiance,Y (Bruise),3.5
-9.6,218,14.1,4.2,4,11,1,Deep Orange,Cara Cara,Y (Sunburn),4
-7.5,247,9.1,3.3,4,24,5,Light Orange,Clementine,N,2
-7.4,170,12.5,3,2,10,4,Yellow-Orange,Jaffa,N,4.5
-10,300,7,4.1,5,25,3,Orange-Red,Blood Orange,N,3
-8.1,205,11,3.4,2.5,14,4.5,Deep Orange,Murcott (Hybrid),N,5
-7.6,180,9,3.3,3,11,4,Orange,California Valencia,N,4.5
-9.8,280,6.5,4.3,5,23,2.5,Orange-Red,Moro (Blood),Y (Split Skin),2
-7.9,190,10.5,3.1,2.5,12,4,Orange,Honey Tangerine,N,4.5
-8.4,215,8.5,3.8,4,16,3.5,Deep Orange,Navel (Late Season),N,4
-6.7,140,13,3,1.5,7,4.5,Light Orange,Clementine (Seedless),N,5
-6.3,111,10,4.3,4,10,5,Orange-Red,Cara Cara,N,4
-7.5,177,8.6,3.5,4,11,1,Light Orange,Temple,N,1
-9,240,7.5,4,4.5,20,3,Orange-Red,Cara Cara,Y (Sunburn Patch),3
-8.3,220,11,3.3,3,15,4,Orange,Hamlin,N,4.5
-7.1,150,9.5,3.4,3.5,9,4,Yellow-Orange,Minneola (Hybrid),N,4.5
-7.7,185,12,3.2,2,11,4.5,Deep Orange,Temple,N,5
-8.9,245,8,3.9,4,19,3,Orange-Red,Moro (Blood),N,4
-6.2,110,15,2.8,1,5,5,Light Orange,Satsuma Mandarin,N,5
-8.6,225,9.5,3.6,3,17,4,Orange,Midsweet (Hybrid),Y (Scars),3.5
-7.3,165,10,3.3,2.5,9,4.5,Deep Orange,California Valencia,N,5
-9.7,285,7,4.2,4.5,22,2.5,Orange-Red,Cara Cara,Y (Mold Spot),2.5
-8,200,11.5,3.4,3,13,4,Orange,Navel (Early Season),N,4.5
-7.5,175,8.5,3.7,4,10,3.5,Deep Orange,Ambiance,N,4
-9.2,260,10.5,3.2,4,20,4.5,Orange-Red,Star Ruby,N,4.5
-6.4,125,13.5,3,1.5,6,5,Light Orange,Tangerine,N,5
-7.8,190,9,3.5,3.5,12,4,Yellow-Orange,Ortanique (Hybrid),N,4.5
-8.3,210,12.5,3.1,2,15,4.5,Deep Orange,Washington Navel,N,5
-6.6,135,14,2.9,1,7,5,Light Orange,Clementine (Seedless),N,5
-7.7,185,12,3.2,2,11,4.5,Deep Orange,Jaffa,N,5
-8.9,240,8.5,3.8,4.5,18,3.5,Orange-Red,Cara Cara,N,4.5
-8.2,215,10,3.4,3,14,4,Orange,Hamlin,N,4.5
-9.4,275,6.5,4.1,5,24,2.5,Orange-Red,Moro (Blood),N,3
-7.2,160,11.5,3.2,2,8,4.5,Deep Orange,Temple,N,5
-8.8,230,9,3.7,4,18,3.5,Orange-Red,Midsweet (Hybrid),Y (Scars),3.5
-6.1,105,14,2.9,1,4,5,Light Orange,Satsuma Mandarin,N,5
-8.5,220,10.5,3.3,2.5,16,4,Orange,California Valencia,N,4.5
-9.9,290,5.5,4.4,5,23,2,Orange-Red,Cara Cara,Y (Mold Spot),2
-7.7,185,12,3.1,3,11,4.5,Orange,Navel (Early Season),N,4.5
-7.4,170,8,3.8,4,9,3.5,Deep Orange,Ambiance,N,4
-9.1,255,11,3.2,4,19,4.5,Orange-Red,Star Ruby,N,4.5
-6.3,120,12.5,3,1.5,5,5,Light Orange,Tangerine,Y (Sunburn Patch),5
-7.6,180,9.5,3.4,3.5,10,4,Yellow-Orange,Ortanique (Hybrid),N,4.5
-8.1,205,13,3,2,13,4.5,Deep Orange,Washington Navel,N,5
-6.5,130,13.5,2.9,1,6,5,Light Orange,Clementine (Seedless),N,5
-8.7,235,7,4,4.5,17,3,Orange-Red,Cara Cara,Y (Sunburn Patch),3
-8,200,10.5,3.3,3,12,4,Orange,Hamlin,N,4.5
-7.3,165,11.5,3.2,2.5,8,4.5,Deep Orange,California Valencia,N,5
-9,240,8.5,3.9,4.5,20,3.5,Orange-Red,Moro (Blood),Y (Minor Insect Damage),4
-6.8,140,12,3,1.5,7,5,Light Orange,Honey Tangerine,N,5
-8.4,215,7.5,4,4,15,3,Deep Orange,Navel (Late Season),N,4
-7.1,150,10,3.3,3,9,4,Yellow-Orange,Minneola (Hybrid),Y (Bruising),3.5
-9.6,280,6,4.2,5,22,2,Orange-Red,Cara Cara,Y (Split Skin),2.5
-7.9,190,11,3.2,2,12,4.5,Deep Orange,Temple,N,5
-8.5,220,8,3.8,4,16,3.5,Orange,Midsweet (Hybrid),Y (Scars),3.5
-6,100,14.5,2.8,1,4,5,Light Orange,Satsuma Mandarin,N,5
-8.2,210,9.5,3.6,3,14,4,Orange,California Valencia,N,4.5
-7.5,175,10,3.3,2.5,10,4,Deep Orange,Washington Navel,N,4.5
-9.3,270,7,4.1,4.5,21,3,Orange-Red,Star Ruby,Y (Sunburn Patch),3
-6.7,135,13,3,1.5,6,5,Light Orange,Tangerine,N,5
-8.8,235,8.5,3.7,4,18,3.5,Orange-Red,Cara Cara,Y (Mold Spot),3.5
-7.8,190,11.5,3.2,3,11,4.5,Deep Orange,Hamlin,N,3
-8.6,225,12.5,3.1,2.5,17,4.5,Deep Orange,Murcott (Hybrid),N,5
-7,145,10.5,3.4,3.5,8,4,Yellow-Orange,Minneola (Hybrid),Y (Bruising),3.5
-9.1,250,7.5,4,5,20,2.5,Orange-Red,Moro (Blood),N,3
-6.2,115,14,2.9,1,5,5,Light Orange,Clementine (Seedless),N,5
-8.4,210,8,3.7,4,15,3.5,Deep Orange,Navel (Late Season),N,4
-7.7,185,11,3.2,2,11,4.5,Deep Orange,Temple,N,5
-8.9,240,9,3.8,4,19,3,Orange-Red,Midsweet (Hybrid),Y (Scars),3.5
-6.9,140,13.5,3,1.5,7,5,Light Orange,Honey Tangerine,N,5
-8.1,200,10,3.4,3,13,4,Orange,California Valencia,N,4.5
-7.4,170,12,3.1,2.5,9,4.5,Deep Orange,Washington Navel,N,5
-8,205,11.5,3.3,3,12,4,Orange,Ambiance,Y (Sunburn Patch),4
-7.2,160,9,3.5,3.5,8,4,Yellow-Orange,Ortanique (Hybrid),N,4.5
-9.5,280,6.5,4.2,5,22,2.5,Orange-Red,Cara Cara,Y (Split Skin),2.5
-6.5,130,13,3,1,6,5,Light Orange,Tangerine,N,5
-8.7,230,8,3.9,4,17,3.5,Deep Orange,Moro (Blood),N,4
-7.9,190,10,3.2,2.5,11,4.5,Deep Orange,Temple,N,5
-8.2,210,12,3.1,2,14,4.5,Deep Orange,California Valencia,N,5
-6.3,120,14,2.9,1.5,5,5,Light Orange,Satsuma Mandarin,N,5
-6.2,115,14,2.9,1,5,5,Light Orange,Jaffa,N,5
-8.5,220,9,3.6,3.5,16,4,Orange,Midsweet (Hybrid),Y (Scars),3.5
-7.1,150,10.5,3.3,3,7,4,Yellow-Orange,Minneola (Hybrid),N,4.5
-8.5,158,11.2,3.6,4,20,5,Orange,Clementine,N,4
-7.7,192,12.6,3.43,4,21,3,Orange,Navel,N,3
-9.3,127,14.2,3.72,3,22,5,Orange-Red,Honey Tangerine,N,5
-8.9,118,8.1,3.32,5,11,3,Light Orange,Valencia,N,2
-6.7,220,11.3,3.29,4,23,5,Orange,Clementine,Y (Scars),4
-9.7,202,14.3,4.09,5,15,5,Orange-Red,Cara Cara,N,4
-6.1,130,6.8,3.98,3,18,5,Light Orange,Jaffa,Y (Mold Spot),2
-7.4,123,6.7,2.82,1,18,5,Light Orange,Clementine,N,3
-8,143,15.1,3.53,5,13,5,Orange-Red,Washington Navel,N,5
-8.9,269,6.7,3.67,4,25,4,Light Orange,Star Ruby,N,2
-6.1,120,14.7,3.97,5,10,5,Orange-Red,Cara Cara,Y (Split Skin),4
-9.9,152,6.4,3.33,4,17,5,Light Orange,Navel,N,2
-6.9,270,7.4,3.85,2,20,3,Light Orange,Navel,N,2
-6.9,184,14,2.86,1,15,3,Orange-Red,Ambiance,Y (Split Skin),5
-6.1,137,12.4,3.54,4,20,5,Orange,Ortanique (Hybrid),N,4
-6.4,236,10.4,3.32,5,22,4,Orange,Temple,N,3
-6.1,279,14.1,3.9,4,13,4,Orange-Red,Navel,Y (Bruising),4
-7.4,293,11.3,3.36,5,19,4,Orange,Temple,N,3
-9.8,209,11.1,2.88,3,14,2,Orange,Star Ruby,N,3
-7.9,246,7.5,3.61,4,19,5,Light Orange,Cara Cara,N,2
-8.3,253,6.7,3.41,5,16,3,Light Orange,Satsuma Mandarin,N,1
-9.7,298,8.1,4.35,3,16,3,Light Orange,Temple,N,2
-8.2,169,11.8,2.92,4,21,4,Orange,Ambiance,N,3
-6.5,260,15.9,4.37,3,10,4,Orange-Red,Satsuma Mandarin,N,5
-9.6,252,12.7,2.97,3,14,4,Orange,Minneola (Hybrid),N,4
-7,297,12.2,2.9,2,22,4,Orange,Cara Cara,N,4
-6.1,243,7.3,2.9,4,10,4,Light Orange,Honey Tangerine,N (Minor),2
-9.7,108,8.6,3.58,2,18,5,Light Orange,Minneola (Hybrid),N,3
-6.6,117,13.7,3.9,2,16,4,Orange-Red,Moro (Blood),N,5
-8.7,234,9.3,3.9,1,14,2,Light Orange,Ortanique (Hybrid),Y (Sunburn Patch),3
-6.7,276,11,4.33,1,11,3,Orange,Ortanique (Hybrid),Y (Sunburn Patch),4
-7.6,269,6.6,3.39,1,23,3,Light Orange,Moro (Blood),N,2
-8.5,234,13.7,3.17,3,11,3,Orange-Red,Honey Tangerine,Y (Scars),4
-7.9,155,12.4,3.58,1,15,5,Orange,Navel,N,5
-6.7,198,10.6,2.8,3,23,5,Orange-Red,Navel,N,4
-9.8,298,8.2,3.7,5,13,3,Light Orange,Star Ruby,Y (Scars),3
-7.7,122,14.6,3.98,4,12,3,Orange-Red,Washington Navel,N,4
-6.4,293,14.2,3.67,5,11,2,Orange-Red,Moro (Blood),N (Split Skin),3
-9.8,143,11,3.65,3,13,5,Orange,Star Ruby,N,4
-6.9,257,13.2,3.36,4,13,5,Orange-Red,Ortanique (Hybrid),N,4
-6,157,9.2,3.85,1,23,4,Light Orange,Ortanique (Hybrid),N,4
-8.9,180,16,2.86,2,24,2,Orange-Red,Ambiance,N,4
-6.2,177,12,3.3,1,12,2,Deep Orange,Clementine,Y (Scars),4
-6.5,296,15,3.2,4,23,2,Deep Orange,Temple,Y (Mold Spot),4
-7.8,187,14.9,3,2,16,1,Deep Orange,Valencia,N,5
-8.2,129,10,3.6,5,24,2,Orange-Red,Tangerine,Y (Scars),3.5
-7.8,292,14.6,3.2,1,11,3,Deep Orange,Washington Navel,Y (Scars),4
-7.3,281,7.7,3.5,2,23,4,Light Orange,Jaffa,Y (Scars),3.5
-8.4,222,14.8,4,3,17,3,Deep Orange,Washington Navel,Y (Minor),4
-9.2,139,14,3.7,2,22,1,Deep Orange,Tangerine,Y (Minor),4
-7.8,234,7.6,3.2,1,19,1,Light Orange,Temple,Y (Sunburn Patch),1
-7.4,238,10.6,3.6,5,14,1,Orange-Red,Tangerine,Y (Bruising),3.5
-8,264,15.8,3.6,4,15,4,Deep Orange,Valencia,N,4
-8.7,217,13.4,3.6,5,10,2,Deep Orange,Moro (Blood),Y (Mold Spot),4.5
-9.7,294,12.7,3.5,3,19,1,Deep Orange,Navel,Y (Bruising),4
-7.8,206,10,3.6,4,18,5,Orange-Red,Navel,N,4
-7.2,274,12.4,4.3,3,12,5,Deep Orange,Temple,Y (Mold Spot),4
-6.4,298,15.2,3,2,15,3,Deep Orange,Clementine,Y (Sunburn Patch),4
-9.7,126,9.1,4.1,1,21,3,Light Orange,Washington Navel,Y (Minor),1
-7.9,168,16,3.3,1,11,3,Deep Orange,Clementine,N,5
-9.6,246,10.2,3.3,2,12,2,Orange-Red,Cara Cara,Y (Sunburn Patch),4
-9,250,15.4,3.4,1,16,4,Deep Orange,Valencia,Y (Bruising),4
-6.4,106,9.1,2.9,4,20,5,Light Orange,Jaffa,Y (Sunburn Patch),3.5
-6.6,141,13.9,3.2,4,19,3,Deep Orange,Valencia,N,4
-9,126,11.5,4.3,3,11,5,Orange-Red,Navel,N,4
-6.9,176,13.7,3.2,5,15,5,Deep Orange,Cara Cara,N,2.5
-9,256,14.1,3.7,3,12,4,Deep Orange,Satsuma Mandarin,Y (Bruising),4
-6.4,127,15.4,2.9,2,11,5,Deep Orange,Star Ruby,Y (Minor),4
-9.6,151,14.4,4.3,4,19,1,Deep Orange,Moro (Blood),N,4
-7.9,258,14.5,3.4,4,22,4,Deep Orange,Temple,N,4
-9.4,179,11.9,3.1,3,15,3,Orange-Red,Ambiance,N,4
-7.2,288,6.9,3.6,2,16,4,Light Orange,Jaffa,Y (Sunburn Patch),3.5
-7.1,236,11.4,4,2,13,3,Orange-Red,Ambiance,Y (Minor Insect Damage),4
-8.6,139,12.1,4.2,1,15,4,Deep Orange,Moro (Blood),Y (Minor),4
-6.8,263,13.4,3.1,4,12,5,Deep Orange,Navel,N,4
-7.8,204,6.2,2.8,3,11,3,Light Orange,Temple,Y (Minor Insect Damage),2.5
-8.1,292,7.4,3.6,3,16,5,Orange,Jaffa,Y (Minor),3
-9.1,269,13.9,3.1,3,11,5,Deep Orange,Valencia,N,5
-8.7,143,14.5,2.9,2,17,3,Deep Orange,Clementine,N,5
-7.5,129,8.4,4.3,2,14,5,Light Orange,Tangerine,Y (Minor),3.5
-6.9,291,9.9,3.8,5,10,4,Light Orange,Satsuma Mandarin,Y (Mold Spot),3
-6.1,198,9,3.1,4,22,3,Light Orange,Cara Cara,Y (Minor),2.5
-8.4,259,15.1,3.9,2,18,5,Deep Orange,Ortanique (Hybrid),Y (Split Skin),4.5
-6.5,171,11.4,3.2,2,16,2,Orange-Red,Jaffa,Y (Minor),5
-6.9,182,14,3.2,1,18,3,Deep Orange,Star Ruby,Y (Minor),4
-6.9,112,13.6,2.9,1,25,2,Deep Orange,Washington Navel,N,5
-8.6,217,9.1,3.1,1,15,3,Light Orange,Washington Navel,N,2.5
-8.3,245,14.3,3.6,3,15,1,Deep Orange,Satsuma Mandarin,Y (Split Skin),4
-8.3,273,14,3.2,4,22,4,Deep Orange,Tangerine,N,4
-8.7,225,10.2,3.2,3,21,5,Orange-Red,Honey Tangerine,N,4
-6.8,165,14.9,3.1,1,22,4,Deep Orange,Star Ruby,Y (Split Skin),5
-7.5,285,15.2,3.7,3,10,3,Deep Orange,Satsuma Mandarin,N,4.5
-6.7,283,6.3,3,4,21,1,Light Orange,Star Ruby,N,3.5
-8.5,192,12.4,3.2,1,25,4,Deep Orange,Navel,Y (Sunburn Patch),4
-7.6,264,14.2,3.2,3,12,1,Deep Orange,Star Ruby,N,5
-8.9,195,11.1,2.8,5,22,5,Orange-Red,Star Ruby,N,3.5
-8.7,141,7,3.9,4,10,2,Light Orange,Ortanique (Hybrid),N,3.5
-6.7,246,8.6,3.5,4,21,3,Light Orange,Satsuma Mandarin,N,4
-8.3,261,13.2,3.8,3,22,5,Deep Orange,Temple,N,4
-7.7,193,9.8,3.2,2,11,3,Light Orange,Star Ruby,Y (Minor Insect Damage),3.5
-9.6,288,6.6,2.8,2,19,2,Light Orange,Washington Navel,N,1
-6.5,277,8.6,3.6,5,18,4,Light Orange,Clementine,Y (Sunburn Patch),4
-9.1,296,11.1,3.3,3,15,1,Orange-Red,Tangerine,Y (Sunburn Patch),4
-7.2,299,12.7,4.3,5,20,5,Deep Orange,Clementine,Y (Bruising),2.5
-6.5,162,8,3.6,5,14,2,Light Orange,Minneola (Hybrid),Y (Sunburn Patch),2.5
-6.8,142,11,3.4,5,20,3,Orange-Red,Valencia,Y (Sunburn Patch),4
-7.5,138,7,4.1,1,20,3,Orange,Navel,N,2
-6.6,128,10.4,3.7,4,25,1,Orange-Red,Ortanique (Hybrid),N,4
-9.9,169,12.8,3.7,1,13,5,Deep Orange,Washington Navel,N,5
-7.9,197,13.1,3.2,2,14,2,Deep Orange,Temple,Y (Minor),4
-8.4,187,14.8,4.2,5,11,3,Deep Orange,Tangerine,N,4.5
-7.1,298,14.1,3.4,3,23,5,Deep Orange,Clementine,Y (Sunburn Patch),4
-6.4,149,14.3,3.5,3,25,3,Deep Orange,Minneola (Hybrid),Y (Bruising),4
-7.6,237,7.7,3.7,2,24,3,Light Orange,Minneola (Hybrid),N,1
-6.9,146,8.7,3.4,5,22,3,Light Orange,Ortanique (Hybrid),N,4.5
-6.1,233,10.9,3,5,19,5,Orange-Red,Satsuma Mandarin,N,3.5
-8.1,248,7.4,3,5,18,2,Light Orange,Cara Cara,N,4
-7.2,261,8,3.3,5,21,5,Orange,Valencia,N,2.5
-6.2,228,12,4.2,3,10,4,Deep Orange,Ortanique (Hybrid),Y (Scars),4
-7.2,130,6.7,3.6,5,23,5,Light Orange,Temple,N,3
-6.6,267,12.5,4,5,11,1,Deep Orange,Star Ruby,N,3.5
-9.7,280,8.5,4.3,3,19,1,Light Orange,Minneola (Hybrid),Y (Sunburn Patch),3
-7,246,14.3,3.8,1,14,2,Deep Orange,Minneola (Hybrid),N,5
-9.4,291,6.3,3.9,4,17,2,Light Orange,Clementine,N,2.5
-9.8,276,6.5,3.3,1,17,5,Light Orange,Star Ruby,N,2
-7.1,210,13,3.7,2,21,5,Deep Orange,Navel,Y (Scars),4
-6.4,261,14.6,3.2,2,17,3,Deep Orange,Ambiance,Y (Sunburn Patch),4
-7.6,100,14.5,3.1,5,15,2,Deep Orange,Satsuma Mandarin,Y (Sunburn Patch),3.5
-8.2,265,6.8,3.4,5,12,2,Light Orange,Moro (Blood),Y (Scars),3
-7.6,189,11.5,3.2,2,12,4,Orange-Red,Ambiance,N,4
-9.1,202,7.2,3.5,2,20,4,Light Orange,Cara Cara,N,1
-9,147,15.6,3.4,2,17,2,Deep Orange,Moro (Blood),N,5
-9.5,131,6.1,3.3,5,21,2,Light Orange,Star Ruby,Y (Sunburn Patch),3
-6.1,273,8.3,4.3,1,16,4,Orange,Navel,Y (Minor),1
-8.2,249,12.8,3.8,3,17,3,Deep Orange,Tangerine,Y (Scars),4
-8.6,251,11.5,3.8,5,23,3,Orange-Red,Clementine,N,3
-8.5,130,8.1,3.6,3,10,2,Orange,Valencia,Y (Sunburn Patch),4
-8,194,10.9,3.6,5,13,1,Orange-Red,Tangerine,Y (Scars),5
-7.4,275,8.5,3.5,5,20,5,Light Orange,Minneola (Hybrid),N,4
-7.5,196,15.7,3,3,13,3,Deep Orange,Temple,Y (Minor Insect Damage),5
-7.2,251,9.8,4.3,3,23,1,Light Orange,Moro (Blood),Y (Minor Insect Damage),3
-7.3,282,10.5,2.9,4,21,2,Orange-Red,Jaffa,Y (Minor),4
+﻿culmen_length_mm,culmen_depth_mm,flipper_length_mm,body_mass_g,sex
+39.1,18.7,181,3750,MALE
+39.5,17.4,186,3800,FEMALE
+40.3,18,195,3250,FEMALE
+NA,NA,NA,NA,NA
+36.7,19.3,193,3450,FEMALE
+39.3,20.6,190,3650,MALE
+38.9,17.8,181,3625,FEMALE
+39.2,19.6,195,4675,MALE
+34.1,18.1,193,3475,NA
+42,20.2,5000,4250,MALE
+37.8,17.1,186,3300,NA
+37.8,17.3,180,3700,NA
+41.1,17.6,182,3200,FEMALE
+38.6,21.2,191,3800,MALE
+34.6,21.1,-132,4400,MALE
+36.6,17.8,185,3700,FEMALE
+38.7,19,195,3450,FEMALE
+42.5,20.7,197,4500,MALE
+34.4,18.4,184,3325,FEMALE
+46,21.5,194,4200,MALE
+37.8,18.3,174,3400,FEMALE
+37.7,18.7,180,3600,MALE
+35.9,19.2,189,3800,FEMALE
+38.2,18.1,185,3950,MALE
+38.8,17.2,180,3800,MALE
+35.3,18.9,187,3800,FEMALE
+40.6,18.6,183,3550,MALE
+40.5,17.9,187,3200,FEMALE
+37.9,18.6,172,3150,FEMALE
+40.5,18.9,180,3950,MALE
+39.5,16.7,178,3250,FEMALE
+37.2,18.1,178,3900,MALE
+39.5,17.8,188,3300,FEMALE
+40.9,18.9,184,3900,MALE
+36.4,17,195,3325,FEMALE
+39.2,21.1,196,4150,MALE
+38.8,20,190,3950,MALE
+42.2,18.5,180,3550,FEMALE
+37.6,19.3,181,3300,FEMALE
+39.8,19.1,184,4650,MALE
+36.5,18,182,3150,FEMALE
+40.8,18.4,195,3900,MALE
+36,18.5,186,3100,FEMALE
+44.1,19.7,196,4400,MALE
+37,16.9,185,3000,FEMALE
+39.6,18.8,190,4600,MALE
+41.1,19,182,3425,MALE
+37.5,18.9,179,2975,NA
+36,17.9,190,3450,FEMALE
+42.3,21.2,191,4150,MALE
+39.6,17.7,186,3500,FEMALE
+40.1,18.9,188,4300,MALE
+35,17.9,190,3450,FEMALE
+42,19.5,200,4050,MALE
+34.5,18.1,187,2900,FEMALE
+41.4,18.6,191,3700,MALE
+39,17.5,186,3550,FEMALE
+40.6,18.8,193,3800,MALE
+36.5,16.6,181,2850,FEMALE
+37.6,19.1,194,3750,MALE
+35.7,16.9,185,3150,FEMALE
+41.3,21.1,195,4400,MALE
+37.6,17,185,3600,FEMALE
+41.1,18.2,192,4050,MALE
+36.4,17.1,184,2850,FEMALE
+41.6,18,192,3950,MALE
+35.5,16.2,195,3350,FEMALE
+41.1,19.1,188,4100,MALE
+35.9,16.6,190,3050,FEMALE
+41.8,19.4,198,4450,MALE
+33.5,19,190,3600,FEMALE
+39.7,18.4,190,3900,MALE
+39.6,17.2,196,3550,FEMALE
+45.8,18.9,197,4150,MALE
+35.5,17.5,190,3700,FEMALE
+42.8,18.5,195,4250,MALE
+40.9,16.8,191,3700,FEMALE
+37.2,19.4,184,3900,MALE
+36.2,16.1,187,3550,FEMALE
+42.1,19.1,195,4000,MALE
+34.6,17.2,189,3200,FEMALE
+42.9,17.6,196,4700,MALE
+36.7,18.8,187,3800,FEMALE
+35.1,19.4,193,4200,MALE
+37.3,17.8,191,3350,FEMALE
+41.3,20.3,194,3550,MALE
+36.3,19.5,190,3800,MALE
+36.9,18.6,189,3500,FEMALE
+38.3,19.2,189,3950,MALE
+38.9,18.8,190,3600,FEMALE
+35.7,18,202,3550,FEMALE
+41.1,18.1,205,4300,MALE
+34,17.1,185,3400,FEMALE
+39.6,18.1,186,4450,MALE
+36.2,17.3,187,3300,FEMALE
+40.8,18.9,208,4300,MALE
+38.1,18.6,190,3700,FEMALE
+40.3,18.5,196,4350,MALE
+33.1,16.1,178,2900,FEMALE
+43.2,18.5,192,4100,MALE
+35,17.9,192,3725,FEMALE
+41,20,203,4725,MALE
+37.7,16,183,3075,FEMALE
+37.8,20,190,4250,MALE
+37.9,18.6,193,2925,FEMALE
+39.7,18.9,184,3550,MALE
+38.6,17.2,199,3750,FEMALE
+38.2,20,190,3900,MALE
+38.1,17,181,3175,FEMALE
+43.2,19,197,4775,MALE
+38.1,16.5,198,3825,FEMALE
+45.6,20.3,191,4600,MALE
+39.7,17.7,193,3200,FEMALE
+42.2,19.5,197,4275,MALE
+39.6,20.7,191,3900,FEMALE
+42.7,18.3,196,4075,MALE
+38.6,17,188,2900,FEMALE
+37.3,20.5,199,3775,MALE
+35.7,17,189,3350,FEMALE
+41.1,18.6,189,3325,MALE
+36.2,17.2,187,3150,FEMALE
+37.7,19.8,198,3500,MALE
+40.2,17,176,3450,FEMALE
+41.4,18.5,202,3875,MALE
+35.2,15.9,186,3050,FEMALE
+40.6,19,199,4000,MALE
+38.8,17.6,191,3275,FEMALE
+41.5,18.3,195,4300,MALE
+39,17.1,191,3050,FEMALE
+44.1,18,210,4000,MALE
+38.5,17.9,190,3325,FEMALE
+43.1,19.2,197,3500,MALE
+36.8,18.5,193,3500,FEMALE
+37.5,18.5,199,4475,MALE
+38.1,17.6,187,3425,FEMALE
+41.1,17.5,190,3900,MALE
+35.6,17.5,191,3175,FEMALE
+40.2,20.1,200,3975,MALE
+37,16.5,185,3400,FEMALE
+39.7,17.9,193,4250,MALE
+40.2,17.1,193,3400,FEMALE
+40.6,17.2,187,3475,MALE
+32.1,15.5,188,3050,FEMALE
+40.7,17,190,3725,MALE
+37.3,16.8,192,3000,FEMALE
+39,18.7,185,3650,MALE
+39.2,18.6,190,4250,MALE
+36.6,18.4,184,3475,FEMALE
+36,17.8,195,3450,FEMALE
+37.8,18.1,193,3750,MALE
+36,17.1,187,3700,FEMALE
+41.5,18.5,201,4000,MALE
+46.5,17.9,192,3500,FEMALE
+50,19.5,196,3900,MALE
+51.3,19.2,193,3650,MALE
+45.4,18.7,188,3525,FEMALE
+52.7,19.8,197,3725,MALE
+45.2,17.8,198,3950,FEMALE
+46.1,18.2,178,3250,FEMALE
+51.3,18.2,197,3750,MALE
+46,18.9,195,4150,FEMALE
+51.3,19.9,198,3700,MALE
+46.6,17.8,193,3800,FEMALE
+51.7,20.3,194,3775,MALE
+47,17.3,185,3700,FEMALE
+52,18.1,201,4050,MALE
+45.9,17.1,190,3575,FEMALE
+50.5,19.6,201,4050,MALE
+50.3,20,197,3300,MALE
+58,17.8,181,3700,FEMALE
+46.4,18.6,190,3450,FEMALE
+49.2,18.2,195,4400,MALE
+42.4,17.3,181,3600,FEMALE
+48.5,17.5,191,3400,MALE
+43.2,16.6,187,2900,FEMALE
+50.6,19.4,193,3800,MALE
+46.7,17.9,195,3300,FEMALE
+52,19,197,4150,MALE
+50.5,18.4,200,3400,FEMALE
+49.5,19,200,3800,MALE
+46.4,17.8,191,3700,FEMALE
+52.8,20,205,4550,MALE
+40.9,16.6,187,3200,FEMALE
+54.2,20.8,201,4300,MALE
+42.5,16.7,187,3350,FEMALE
+51,18.8,203,4100,MALE
+49.7,18.6,195,3600,MALE
+47.5,16.8,199,3900,FEMALE
+47.6,18.3,195,3850,FEMALE
+52,20.7,210,4800,MALE
+46.9,16.6,192,2700,FEMALE
+53.5,19.9,205,4500,MALE
+49,19.5,210,3950,MALE
+46.2,17.5,187,3650,FEMALE
+50.9,19.1,196,3550,MALE
+45.5,17,196,3500,FEMALE
+50.9,17.9,196,3675,FEMALE
+50.8,18.5,201,4450,MALE
+50.1,17.9,190,3400,FEMALE
+49,19.6,212,4300,MALE
+51.5,18.7,187,3250,MALE
+49.8,17.3,198,3675,FEMALE
+48.1,16.4,199,3325,FEMALE
+51.4,19,201,3950,MALE
+45.7,17.3,193,3600,FEMALE
+50.7,19.7,203,4050,MALE
+42.5,17.3,187,3350,FEMALE
+52.2,18.8,197,3450,MALE
+45.2,16.6,191,3250,FEMALE
+49.3,19.9,203,4050,MALE
+50.2,18.8,202,3800,MALE
+45.6,19.4,194,3525,FEMALE
+51.9,19.5,206,3950,MALE
+46.8,16.5,189,3650,FEMALE
+45.7,17,195,3650,FEMALE
+55.8,19.8,207,4000,MALE
+43.5,18.1,202,3400,FEMALE
+49.6,18.2,193,3775,MALE
+50.8,19,210,4100,MALE
+50.2,18.7,198,3775,FEMALE
+46.1,13.2,211,4500,FEMALE
+50,16.3,230,5700,MALE
+48.7,14.1,210,4450,FEMALE
+50,15.2,218,5700,MALE
+47.6,14.5,215,5400,MALE
+46.5,13.5,210,4550,FEMALE
+45.4,14.6,211,4800,FEMALE
+46.7,15.3,219,5200,MALE
+43.3,13.4,209,4400,FEMALE
+46.8,15.4,215,5150,MALE
+40.9,13.7,214,4650,FEMALE
+49,16.1,216,5550,MALE
+45.5,13.7,214,4650,FEMALE
+48.4,14.6,213,5850,MALE
+45.8,14.6,210,4200,FEMALE
+49.3,15.7,217,5850,MALE
+42,13.5,210,4150,FEMALE
+49.2,15.2,221,6300,MALE
+46.2,14.5,209,4800,FEMALE
+48.7,15.1,222,5350,MALE
+50.2,14.3,218,5700,MALE
+45.1,14.5,215,5000,FEMALE
+46.5,14.5,213,4400,FEMALE
+46.3,15.8,215,5050,MALE
+42.9,13.1,215,5000,FEMALE
+46.1,15.1,215,5100,MALE
+44.5,14.3,216,4100,NA
+47.8,15,215,5650,MALE
+48.2,14.3,210,4600,FEMALE
+50,15.3,220,5550,MALE
+47.3,15.3,222,5250,MALE
+42.8,14.2,209,4700,FEMALE
+45.1,14.5,207,5050,FEMALE
+59.6,17,230,6050,MALE
+49.1,14.8,220,5150,FEMALE
+48.4,16.3,220,5400,MALE
+42.6,13.7,213,4950,FEMALE
+44.4,17.3,219,5250,MALE
+44,13.6,208,4350,FEMALE
+48.7,15.7,208,5350,MALE
+42.7,13.7,208,3950,FEMALE
+49.6,16,225,5700,MALE
+45.3,13.7,210,4300,FEMALE
+49.6,15,216,4750,MALE
+50.5,15.9,222,5550,MALE
+43.6,13.9,217,4900,FEMALE
+45.5,13.9,210,4200,FEMALE
+50.5,15.9,225,5400,MALE
+44.9,13.3,213,5100,FEMALE
+45.2,15.8,215,5300,MALE
+46.6,14.2,210,4850,FEMALE
+48.5,14.1,220,5300,MALE
+45.1,14.4,210,4400,FEMALE
+50.1,15,225,5000,MALE
+46.5,14.4,217,4900,FEMALE
+45,15.4,220,5050,MALE
+43.8,13.9,208,4300,FEMALE
+45.5,15,220,5000,MALE
+43.2,14.5,208,4450,FEMALE
+50.4,15.3,224,5550,MALE
+45.3,13.8,208,4200,FEMALE
+46.2,14.9,221,5300,MALE
+45.7,13.9,214,4400,FEMALE
+54.3,15.7,231,5650,MALE
+45.8,14.2,219,4700,FEMALE
+49.8,16.8,230,5700,MALE
+46.2,14.4,214,4650,NA
+49.5,16.2,229,5800,MALE
+43.5,14.2,220,4700,FEMALE
+50.7,15,223,5550,MALE
+47.7,15,216,4750,FEMALE
+46.4,15.6,221,5000,MALE
+48.2,15.6,221,5100,MALE
+46.5,14.8,217,5200,FEMALE
+46.4,15,216,4700,FEMALE
+48.6,16,230,5800,MALE
+47.5,14.2,209,4600,FEMALE
+51.1,16.3,220,6000,MALE
+45.2,13.8,215,4750,FEMALE
+45.2,16.4,223,5950,MALE
+49.1,14.5,212,4625,FEMALE
+52.5,15.6,221,5450,MALE
+47.4,14.6,212,4725,FEMALE
+50,15.9,224,5350,MALE
+44.9,13.8,212,4750,FEMALE
+50.8,17.3,228,5600,MALE
+43.4,14.4,218,4600,FEMALE
+51.3,14.2,218,5300,MALE
+47.5,14,212,4875,FEMALE
+52.1,17,230,5550,MALE
+47.5,15,218,4950,FEMALE
+52.2,17.1,228,5400,MALE
+45.5,14.5,212,4750,FEMALE
+49.5,16.1,224,5650,MALE
+44.5,14.7,214,4850,FEMALE
+50.8,15.7,226,5200,MALE
+49.4,15.8,216,4925,MALE
+46.9,14.6,222,4875,FEMALE
+48.4,14.4,203,4625,FEMALE
+51.1,16.5,225,5250,MALE
+48.5,15,219,4850,FEMALE
+55.9,17,228,5600,MALE
+47.2,15.5,215,4975,FEMALE
+49.1,15,228,5500,MALE
+47.3,13.8,216,4725,NA
+46.8,16.1,215,5500,MALE
+41.7,14.7,210,4700,FEMALE
+53.4,15.8,219,5500,MALE
+43.3,14,208,4575,FEMALE
+48.1,15.1,209,5500,MALE
+50.5,15.2,216,5000,FEMALE
+49.8,15.9,229,5950,MALE
+43.5,15.2,213,4650,FEMALE
+51.5,16.3,230,5500,MALE
+46.2,14.1,217,4375,FEMALE
+55.1,16,230,5850,MALE
+44.5,15.7,217,4875,.
+48.8,16.2,222,6000,MALE
+47.2,13.7,214,4925,FEMALE
+NA,NA,NA,NA,NA
+46.8,14.3,215,4850,FEMALE
+50.4,15.7,222,5750,MALE
+45.2,14.8,212,5200,FEMALE
+49.9,16.1,213,5400,MALE
