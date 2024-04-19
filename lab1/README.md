@@ -4,7 +4,7 @@
 Требуется сравнить визуализацию данных с использованием методов PCA, MDS (или альтернативного из той же группы, один метод на выбор) с t-SNE, UMAP (или альтернативного из той же группы, один метод на выбор) для случаев кластеризации до и после снижения размерности пространства с разметкой точек по полученным кластерам.
 
 # Датасет
-Orange Quality Analysis Dataset - https://www.kaggle.com/datasets/youssefaboelwafa/clustering-penguins-species
+Clustering Penguins Species - https://www.kaggle.com/datasets/youssefaboelwafa/clustering-penguins-species
 
 **Content:**
 
